@@ -58,6 +58,4 @@ Step 3: Start the development server.
 
 You can support this project by leaving a star, Thank you 😁
 
-## Authors
-
-- [@alicalimli](https://www.github.com/alicalimli)
+# real-time-chat-react
